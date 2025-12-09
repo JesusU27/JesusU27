@@ -12,6 +12,7 @@ I'm a **Full Stack Developer** passionate about building scalable and modern app
 🔵 React (Hooks, Routings, Material UI)
 
 **Backend**
+
 ☕ Spring Boot (Java, REST APIs, JWT, JPA, Bcrypt, Lombok)  
 🟣 .NET Core (C#, Entity Framework, NuGet, JWT)
 
