@@ -52,7 +52,8 @@ These approaches help me build systems that are testable, extensible, and resili
 |--------|------|-------------|
 | [🦷 Dentify](https://github.com/JesusU27/dentify-backend) |  Spring Boot | Dental clinic management system (users, patients, doctors, appointments and payments) |
 | [🏦 Caso Financiero](https://github.com/JesusU27/caso-productos-financieros) | Spring Boot - Data - Security, WebFlux | Microservices for financial products and clients using AOP, logging, Programming Reactive (Webflux), resilience patterns, BFF, tracking, common starter module, Google OAuth2.0, and JUnit |
-| [ ⚕️AlertaVital] (https://github.com/JesusU27/alerta-vital-service | Spring Boot - Data - Security, Websockets | Vital Signs monitoring System |
+| [⚕️AlertaVital - Web Service](https://github.com/JesusU27/alerta-vital-service) | Spring Boot - Data - Security, Websockets | Vital Signs monitoring System |
+| [⚕️AlertaVital - Edge App Simulator](https://github.com/JesusU27/edge-simulator-app-alerta-vital) | Python - venv | Edge App Simulator Sending JSON messages from Iot Device |  
 
 ---
 
